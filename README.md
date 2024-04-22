@@ -5,17 +5,15 @@
   <h2>The Wild Oasis</h2>
 
   <h3>
-    <a href="https://the-wild-oasis-alamin.vercel.app">
+    <a href="https://the-wild-oasis-hfo.vercel.app/">
       <strong>Demo Website</strong>
     </a>
   </h3>
 
   <div align="center">
-    <a href="https://the-wild-oasis-alamin.vercel.app">View Demo</a>
+    <a href="https://the-wild-oasis-hfo.vercel.app/">View Demo</a>
     •
-    <a href="https://github.com/CodePapa360/The-Wild-Oasis/issues">Report Bug</a>
-    •
-    <a href="https://github.com/CodePapa360/The-Wild-Oasis/pulls">Request Feature</a>
+    <a href="https://github.com/Sujitroy98/the-wild-oasis/issues">Report Bug</a>
   </div>
 
   <hr>
@@ -27,18 +25,18 @@
 
 <img src="https://img.shields.io/badge/Status-Completed-success?style=flat" alt="Status" />
 
-<a href='https://www.twitter.com/CodePapa360' target="_blank"><img alt='Twitter' src='https://img.shields.io/badge/@CodePapa360-100000?style=for-the-badge&logo=Twitter&logoColor=00C9F7&labelColor=3F3F3F&color=0092FA'/></a>
-<a href='https://www.linkedin.com/in/codepapa360' target="_blank"><img alt='LinkedIn' src='https://img.shields.io/badge/@CodePapa360-100000?style=for-the-badge&logo=LinkedIn&logoColor=00a0dc&labelColor=2F2F2F&color=0077b5'/></a>
+<a href='https://www.facebook.com/bkp.wale/' target="_blank"><img alt='Twitter' src='https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white'/></a>
+<a href='https://www.linkedin.com/in/sujit-roy-399014229/' target="_blank"><img alt='LinkedIn' src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
 
 </div>
 
 <!-- Brief -->
 <p align="center">
-The Wild Oasis hotel management app is a full-featured React web application that allows hotel employees to manage cabins, bookings, and guests. The app uses Supabase for its backend and implements a variety of advanced React techniques, such as HOCs, the Compound Component Pattern, and React Query.
+The Wild Oasis hotel front office app is a full-featured React web application that allows hotel employees to manage cabins, bookings, and guests. The app uses Supabase for its backend and implements a variety of advanced React techniques, such as HOCs, the Compound Component Pattern, and React Query.
 </p>
 
 <!-- Screenshot -->
-<a align="center" href="https://the-wild-oasis-alamin.vercel.app">
+<a align="center" href="https://the-wild-oasis-hfo.vercel.app/">
 
 ![Screenshot](./public/thumbnail-preview.png)
 
@@ -46,13 +44,14 @@ The Wild Oasis hotel management app is a full-featured React web application tha
 
 ## Table of contents
 
+- [Table of contents](#table-of-contents)
 - [Key Features](#key-features)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-- [Installation](#installation)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
+  - [What I Learned](#what-i-learned)
+  - [Installation](#installation)
+  - [Author](#author)
+  - [Acknowledgments](#acknowledgments)
 
 ## Key Features
 
@@ -147,7 +146,7 @@ By building "The Wild Oasis" project with these technologies and concepts, I've 
 - Clone this repo:
 
 ```sh
-git clone https://github.com/CodePapa360/The-Wild-Oasis.git
+git clone https://github.com/Sujitroy98/the-wild-oasis.git
 ```
 
 - Install dependencies:
@@ -170,12 +169,11 @@ npm run dev
 
 ### Author
 
-<b>👤 Alamin</b>
+<b>👤 Sujit</b>
 
-- Twitter - [@CodePapa360](https://www.twitter.com/CodePapa360)
-- LinkedIn - [@CodePapa360](https://www.linkedin.com/in/codepapa360)
-- Frontend Mentor - [@CodePapa360](https://www.frontendmentor.io/profile/CodePapa360)
-- Github: [@CodePapa360](https://github.com/codepapa360)
+
+- LinkedIn - [@sujit-roy98](https://www.linkedin.com/in/sujit-roy-399014229/)
+- Github: [@sujit-roy98](https://github.com/Sujitroy98)
 
 Feel free to contact me with any questions or feedback!
 
